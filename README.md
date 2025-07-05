@@ -8,11 +8,7 @@ Grpah View and a Chat system to update the graph
     ```bash
     git clone <repository-url>
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd 01-starting-project
-    ```
-3. Install dependencies:
+2. Install dependencies:
     ```bash
     npm install
     ```
