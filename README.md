@@ -1,6 +1,6 @@
 # Project Title
 
-Grpah View and a Chat system to update the graph
+A simple chat interface that uses a model to update and manage entity-relation graphs in real time.
 
 ## Installation
 
